@@ -1,3 +1,1 @@
-This is a test
-LOVE LOVE SHINEEEE
-SUPERSTAR SUPERSTAR
+hello friends
